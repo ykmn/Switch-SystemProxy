@@ -6,4 +6,5 @@ Powershell-скрипт для включения и выключения сис
 ![](picture-off.png)
 
 Адрес файла автоконфигурации (PAC):
+
 ![](picture-config.png)
